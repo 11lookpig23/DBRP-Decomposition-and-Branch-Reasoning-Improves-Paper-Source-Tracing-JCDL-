@@ -1,1 +1,2 @@
-# DBRP-Decomposition-and-Branch-Reasoning-Improves-Paper-Source-Tracing-JCDL-
+# DBRP: Decomposition and Branch Reasoning Improves Paper Source Tracing -JCDL
+The cleaned PST dataset is stored in `data_all.json`. `PTSdata.py` includes the implementation on how to sample test questions (references) and the implementation of the example retrieval module from the paper. Other prompts and code mentioned in the paper are being used for the next round of research and will be updated after further organization.
